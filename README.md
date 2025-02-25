@@ -16,3 +16,6 @@ This is a notebook to record the lessons I learned to become a successful Ph.D. 
 - [Terry Yue Zhuo](https://terryyz.github.io/)
 - [Rafael Rafailov](https://rmrafailov.github.io/)
 - [Zhihong Chen](https://zhjohnchan.github.io/)
+
+
+A book recomend by Mu Li to imoprove your academic paper writing: The Craft of Research, Fourth Edition (Chicago Guides to Writing, Editing, and Publishing)
