@@ -1,5 +1,5 @@
 # Research Notes
-This is a notebook to record the lessons I learned to become a successful researcher. I start it when I got my master degree from University of Michigan and worked as a research assistant.
+This is a notebook to record the lessons I learned to become a successful Ph.D. I started it when I got my master degree from University of Michigan and worked as a research assistant.
 
 ## What makes a successful Ph.D
 - Distinctive research tastes
