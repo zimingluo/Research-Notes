@@ -14,7 +14,7 @@ This is a notebook to record the lessons I learned to become a successful Ph.D. 
 - Prioritize long-term research impact over quick wins in publications.
 - Paper is cheap; they will be published eventually.
 
-## Excellent Ph.D Role Models (Personally)
+## Excellent Ph.D Role Models (Personal)
 - [Terry Yue Zhuo](https://terryyz.github.io/)
 - [Rafael Rafailov](https://rmrafailov.github.io/)
 - [Zhihong Chen](https://zhjohnchan.github.io/)
