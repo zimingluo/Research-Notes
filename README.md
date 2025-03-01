@@ -2,8 +2,10 @@
 This is a notebook to record the lessons I learned to become a successful Ph.D. I started it when I got my master degree from University of Michigan and worked as a research assistant.
 
 ## What makes a successful Ph.D
-- Distinctive research tastes
-- Excellent social and leadership skills
+- Passion and Curiosity
+- Effective Time Management
+- Distinctive Research Tastes
+- Excellent Communication and Leadership skills
 
 
 ## How to become a successful Ph.D
