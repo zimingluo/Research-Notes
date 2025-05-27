@@ -9,11 +9,12 @@ This is a notebook to record the lessons I learned to become a successful Ph.D. 
 
 
 ## How to become a successful Ph.D
-- Find your circle and mates.
+- Find your circle and mates
 - Expand your reading coverage
 - Choose wisely and commit wholeheartedly.
-- Prioritize long-term research impact over quick wins in publications.
-- Paper is cheap; they will be published eventually.
+- Prioritize long-term research impact over quick wins in publications
+- Paper is cheap; they will be published eventually
+- Select your academic icon to follow
 - First principle
 
 ## Excellent Ph.D Role Models (Personal)
